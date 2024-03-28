@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chakshu3842
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning full stack web develpoment
+- 🌱 I’m a ReactJS developer
 - 💞️ I’m looking to collaborate on front-end web development
 - 📫 How to reach me you can mail me on chakshushandilya@gmail.com
 
